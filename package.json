@@ -1,6 +1,6 @@
 {
   "name": "@atek-cloud/self-updater-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test module for Atek's self update implementation",
   "main": "index.js",
   "bin": "bin.js",
