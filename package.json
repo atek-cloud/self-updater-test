@@ -1,0 +1,25 @@
+{
+  "name": "@atek-cloud/self-updater-test",
+  "version": "1.0.0",
+  "description": "Test module for Atek's self update implementation",
+  "main": "index.js",
+  "bin": "bin.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atek-cloud/self-updater-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atek-cloud/self-updater-test/issues"
+  },
+  "homepage": "https://github.com/atek-cloud/self-updater-test#readme",
+  "dependencies": {
+    "@mishguru/selfupdate": "^4.8.0",
+    "is-installed-globally": "^0.4.0"
+  }
+}
